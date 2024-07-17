@@ -1,10 +1,10 @@
-# Software Labobratório de Medição
+# Software Laboratório de Medição
 ## Passos
 
 ### Configuração do LabVIEW
 
 1. Entre [aqui](httpslumen.ni.comnicifptheader_logincontent.xhtmlaction=create&du=https%3A%2F%2Flumen.ni.com%2Fnicif%2Fus%2Fmyaccount%2Fcontent.xhtml%3Fdu%3Dhttps%253A%252F%252Fwww.ni.com%252Fpt-br%252Fmyni%252Fdashboard.html), cadastre uma conta na National Instruments e selecione a atividade de _Estudante_.
-2. Após criar a conta, entre [aqui](httpswww.ni.comensupportdownloadssoftware-productsdownload.labview.html#521715), selecione as especificações da sua máquina e a opção base, selecione uma versão maior ou igual a 2021, em seguida clique em _Download_.
+2. Após criar a conta, entre [aqui](httpswww.ni.comensupportdownloadssoftware-productsdownload.labview.html#521715), selecione as especificações da sua máquina e a opção _base_, selecione uma versão maior ou igual a 2021, em seguida clique em _Download_.
 3. Ao abrir o instalador
     1. Na primeira seleção de compontentes, marque apenas os componentes _LabVIEW_ e _NI-VISA_ a serem instalados, o resto pode desmarcar.
     2. Na segunda seleção, marque apenas _NI Certificates Installer, NI System Configuration Support for LabVIEW_ e todas relacionadas a _NI-VISA_ 
@@ -14,10 +14,10 @@
 
 ### Usando o código
 1. Primeiro baixe e faça o upload do firmware na sua placa de arduino.
-    1. __OBS__: este firmware apenas funcionará em placas arduino com o microcontrolador atmega328p (e.g.     UNO,Nano) devido ao controle específicos de registradores deste uC para o controle de temporizações.
+    1. __OBS__: este firmware apenas funcionará em placas arduino com o microcontrolador atmega328p (e.g.     UNO,Nano) devido ao controle específico de registradores deste uC para o uso de temporizações.
 
 2. Depois de ter feito o upload, volte para o labview e abra a VI _medicao.vi_ através de _File -> Open VI_
-3. Selecione a porta COM que está o arduino, e rode o programa clicanco em _Run_ que está no canto superior esquerdo, é um icone com a seta apontando para a direita.
+3. Selecione a porta COM que está o seu arduino, e rode o programa clicanco em _Run_ que está no canto superior esquerdo, é um icone com a seta apontando para a direita.
 4. A partir daí as aquisições já estarão sendo feitas.
 
 
