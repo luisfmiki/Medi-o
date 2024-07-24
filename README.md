@@ -3,8 +3,8 @@
 
 ### Configuração do LabVIEW
 
-1. Entre [aqui](httpslumen.ni.comnicifptheader_logincontent.xhtmlaction=create&du=https%3A%2F%2Flumen.ni.com%2Fnicif%2Fus%2Fmyaccount%2Fcontent.xhtml%3Fdu%3Dhttps%253A%252F%252Fwww.ni.com%252Fpt-br%252Fmyni%252Fdashboard.html), cadastre uma conta na National Instruments e selecione a atividade de _Estudante_.
-2. Após criar a conta, entre [aqui](httpswww.ni.comensupportdownloadssoftware-productsdownload.labview.html#521715), selecione as especificações da sua máquina e a opção _base_, selecione uma versão maior ou igual a 2021, em seguida clique em _Download_.
+1. Entre [aqui](https://lumen.ni.comnicifptheader_logincontent.xhtmlaction=create&du=https%3A%2F%2Flumen.ni.com%2Fnicif%2Fus%2Fmyaccount%2Fcontent.xhtml%3Fdu%3Dhttps%253A%252F%252Fwww.ni.com%252Fpt-br%252Fmyni%252Fdashboard.html](https://lumen.ni.com/nicif/pt/header_login/content.xhtml?action=create&du=https%3A%2F%2Fwww.ni.com%2Fen.html), cadastre uma conta na National Instruments e selecione a atividade de _Estudante_.
+2. Após criar a conta, entre [aqui](https://www.ni.comensupportdownloadssoftware-productsdownload.labview.html#521715](https://www.ni.com/en/support/downloads/software-products/download.labview.html#544096), selecione as especificações da sua máquina e a opção _base_, selecione uma versão maior ou igual a 2021, em seguida clique em _Download_.
 3. Ao abrir o instalador
     1. Na primeira seleção de compontentes, marque apenas os componentes _LabVIEW_ e _NI-VISA_ a serem instalados, o resto pode desmarcar.
     2. Na segunda seleção, marque apenas _NI Certificates Installer, NI System Configuration Support for LabVIEW_ e todas relacionadas a _NI-VISA_ 
